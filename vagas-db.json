@@ -1,0 +1,22 @@
+{
+  "vagas": [{
+      "id":1,
+      "nome":"Desenvolvedor Front",
+      "foto":"foto1.jpg",
+      "descricao":"Trabalhar com Angular",
+      "salario": 1000
+      },
+      {"id":2,
+      "nome":"Desenvolvedor Front",
+      "foto":"foto2.jpg",
+      "descricao":"Trabalhar com React",
+          "salario": 1000
+      },
+      {"id":3,
+      "nome":"Desenvolvedor Front",
+      "foto":"foto3.jpg",
+      "descricao":"Trabalhar com JavaScript",
+      "salario": 2000
+      }
+          
+  ]}
