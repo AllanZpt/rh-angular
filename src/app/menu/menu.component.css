@@ -1,0 +1,16 @@
+.menu{
+    background-color: gold;
+    margin-bottom:50px ;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    box-shadow: 10px 5px 5px rgb(71, 71, 71);
+}
+
+.nav-item{
+    background-color: white;
+    margin-left: 30px;
+    border-radius: 10px;
+    
+}
+
+
